@@ -21,7 +21,7 @@ include ("function.php");
                         <label class=""
                             for="filebuttom">Select file</label>
                         <div class="">
-                            <input type="file" id="file"
+                            <input type="file" id="file" name="file"
                             class = "input-large" required>
                         </div>
                     </div>
