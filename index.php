@@ -39,7 +39,7 @@ include ("function.php");
             </form>
         </div>
         <?php
-        get_all_records();
+//        get_all_records();
         ?>
     </div>
 </div>
